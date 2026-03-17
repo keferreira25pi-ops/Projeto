@@ -1,0 +1,63 @@
+[
+    
+    {
+        "Pergunta": "Qual é o maior planeta do sistema solar?",
+        "Respostas": ["Terra", "Júpiter", "Marte", "Saturno"],
+        "Correta": 1,
+        "Pontos": 10
+    },
+    {
+        "Pergunta": "Qual animal é conhecido como o rei da selva?",
+        "Respostas": ["Elefante", "Leão", "Tigre", "Urso"],
+        "Correta": 1,
+        "Pontos": 10
+    },
+    {
+        "Pergunta": "Qual é a capital de Portugal?",
+        "Respostas": ["Porto", "Braga", "Lisboa", "Coimbra"],
+        "Correta": 2,
+        "Pontos": 10
+    },
+    {
+        "Pergunta": "Quantos dias tem um ano normal?",
+        "Respostas": ["360", "365", "366", "364"],
+        "Correta": 1,
+        "Pontos": 10
+    },
+    {
+        "Pergunta": "Qual é o oceano mais grande do mundo?",
+        "Respostas": ["Atlântico", "Índico", "Ártico", "Pacífico"],
+        "Correta": 3,
+        "Pontos": 10
+    },
+    {
+        "Pergunta": "Qual fruta é conhecida por ter muitas sementes do lado de fora?",
+        "Respostas": ["Morango", "Maçã", "Banana", "Uva"],
+        "Correta": 0,
+        "Pontos": 10
+    },
+    {
+        "Pergunta": "Qual é o animal mais rápido em terra?",
+        "Respostas": ["Leopardo", "Cavalo", "Guepardo", "Leão"],
+        "Correta": 2,
+        "Pontos": 10
+    },
+    {
+        "Pergunta": "Qual cor se forma ao misturar azul e amarelo?",
+        "Respostas": ["Roxo", "Verde", "Laranja", "Castanho"],
+        "Correta": 1,
+        "Pontos": 10
+    },
+    {
+        "Pergunta": "Qual é o metal usado principalmente para fazer fios elétricos?",
+        "Respostas": ["Ouro", "Prata", "Cobre", "Ferro"],
+        "Correta": 2,
+        "Pontos": 10
+    },
+    {
+        "Pergunta": "Qual planeta é conhecido como planeta vermelho?",
+        "Respostas": ["Vênus", "Marte", "Júpiter", "Mercúrio"],
+        "Correta": 1,
+        "Pontos": 10
+    }
+]

@@ -31,7 +31,16 @@ def mostra_pergunta(pergunta, n):
         print(f"{conta} - {resposta}")
         conta += 1
     print("Pontos: ", pergunta["Pontos"])
-    op = int(input("Qual a sua opção 1, 2, 3 ou 4: "))
-    return op
+    opcao = int(input("Qual a sua opção 1, 2, 3 ou 4: "))
+    return opcao
    
-        
+def mostra_pontos(pontos):
+    print("\n-------------------------------------------\n")
+    print(f"você tem {pontos} pontos!")
+    print("\n-------------------------------------------\n")
+    return pontos
+def fim_jogo():
+    print("\n-------------------------------------------\n")
+    print("CHEGOU AO FIM DO JOGO DE PERGUNTA!")
+    print("\n-------------------------------------------\n")
+    return fim_jogo

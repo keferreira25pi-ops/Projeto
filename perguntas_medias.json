@@ -1,0 +1,56 @@
+[
+    {
+        "Pergunta": "Qual é o animal símbolo da Austrália?",
+        "Respostas": ["Canguru", "Coala", "Dingo", "Emu"],
+        "Correta": 0,
+        "Pontos": 20
+    },
+    {
+        "Pergunta": "Qual é a língua oficial do Brasil?",
+        "Respostas": ["Espanhol", "Inglês", "Português", "Francês"],
+        "Correta": 2,
+        "Pontos": 20
+    },
+    {
+        "Pergunta": "Qual é a principal fonte de energia do Sol?",
+        "Respostas": ["Fusão nuclear", "Fissão nuclear", "Energia química", "Energia gravitacional"],
+        "Correta": 0,
+        "Pontos": 20
+    },
+    {
+        "Pergunta": "Qual é o planeta mais próximo do Sol?",
+        "Respostas": ["Vênus", "Mercúrio", "Marte", "Terra"],
+        "Correta": 1,
+        "Pontos": 20
+    },
+    {
+        "Pergunta": "Qual é a capital da França?",
+        "Respostas": ["Paris", "Londres", "Roma", "Madri"],
+        "Correta": 0,
+        "Pontos": 20
+    },
+    {
+        "Pergunta": "Qual é o maior órgão do corpo humano?",
+        "Respostas": ["Coração", "Fígado", "Pele", "Pulmões"],
+        "Correta": 2,
+        "Pontos": 20
+    },
+    {
+        "Pergunta": "Qual é o metal líquido à temperatura ambiente?",
+        "Respostas": ["Cobre", "Prata", "Mercúrio", "Ouro"],
+        "Correta": 2,
+        "Pontos": 20
+    },
+    {
+        "Pergunta": "Qual é o meio de transporte mais rápido em terra?",
+        "Respostas": ["Trem", "Carro", "Avião", "Bicicleta"],
+        "Correta": 0,
+        "Pontos": 20
+    },
+    {
+        "Pergunta": "Em que país está localizada a Torre Eiffel?",
+        "Respostas": ["Itália", "França", "Alemanha", "Inglaterra"],
+        "Correta": 1,
+        "Pontos": 20
+    }
+]

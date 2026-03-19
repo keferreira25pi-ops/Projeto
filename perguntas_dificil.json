@@ -1,0 +1,71 @@
+[
+    {
+        "Pergunta": "Qual é o maior continente do mundo?",
+        "Respostas": ["África", "Ásia", "América do Norte", "Europa"],
+        "Correta": 1,
+        "Pontos": 20
+    },
+    {
+        "Pergunta": "Qual é a capital da Mongólia?",
+        "Respostas": ["Astana", "Ulaanbaatar", "Tashkent", "Bishkek"],
+        "Correta": 1,
+        "Pontos": 30
+    },
+    {
+        "Pergunta": "Quem formulou as leis do movimento?",
+        "Respostas": ["Albert Einstein", "Galileu Galilei", "Isaac Newton", "Nikola Tesla"],
+        "Correta": 2,
+        "Pontos": 30
+    },
+    {
+        "Pergunta": "Qual é o elemento químico com símbolo 'W'?",
+        "Respostas": ["Tungstênio", "Tálio", "Tântalo", "Telúrio"],
+        "Correta": 0,
+        "Pontos": 40
+    },
+    {
+        "Pergunta": "Em que ano ocorreu a queda do Império Romano do Ocidente?",
+        "Respostas": ["410", "476", "509", "395"],
+        "Correta": 1,
+        "Pontos": 40
+    },
+
+
+    
+
+       { "Pergunta": "Qual é o maior oceano da Terra?",
+        "Respostas": ["Atlântico", "Índico", "Ártico", "Pacífico"],
+        "Correta": 3,
+        "Pontos": 20
+    },
+    {
+        "Pergunta": "Qual matemático é conhecido como o pai da geometria?",
+        "Respostas": ["Pitágoras", "Euclides", "Arquimedes", "Descartes"],
+        "Correta": 1,
+        "Pontos": 40
+    },
+    {
+        "Pergunta": "Qual é a velocidade da luz no vácuo (aproximadamente)?",
+        "Respostas": ["300.000 km/s", "150.000 km/s", "1.000.000 km/s", "30.000 km/s"],
+        "Correta": 0,
+        "Pontos": 50
+    },
+    {
+        "Pergunta": "Quem escreveu 'A Divina Comédia'?",
+        "Respostas": ["Homero", "Dante Alighieri", "Virgílio", "Boccaccio"],
+        "Correta": 1,
+        "Pontos": 30
+    },
+    {
+        "Pergunta": "Qual é o país com maior número de fusos horários?",
+        "Respostas": ["Estados Unidos", "Rússia", "França", "China"],
+        "Correta": 2,
+        "Pontos": 50
+    },
+    {
+        "Pergunta": "Qual partícula subatómica possui carga negativa?",
+        "Respostas": ["Próton", "Nêutron", "Elétron", "Quark"],
+        "Correta": 2,
+        "Pontos": 30
+    }
+]
